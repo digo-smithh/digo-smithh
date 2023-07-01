@@ -1,5 +1,4 @@
 # Olá, sou o Rodrigo 👋 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-smith-b02378165/)
 #### Sou técnico em informática pelo COTUCA e estudante de Ciência da Computação na UFSCar 💜 
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digo-smithh&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,4 +15,6 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-
+### Você pode me encontrar em:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-smith-b02378165/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](smithrodrigues08@gmail.com)
