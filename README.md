@@ -1,5 +1,4 @@
-# Ooi, sou o Rodrigo 👋 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rdgsmithh/)
+# Olá, sou o Rodrigo 👋 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-smith-b02378165/)
 #### Sou técnico em informática pelo COTUCA e estudante de Ciência da Computação na UFSCar 💜 
 #
