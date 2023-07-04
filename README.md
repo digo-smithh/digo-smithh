@@ -1,5 +1,5 @@
 # Olá, sou o Rodrigo 👋 
-#### Sou técnico em informática pelo COTUCA e estudante de Ciência da Computação na UFSCar 💜 
+##### Sou técnico em informática pelo COTUCA e estudante de Ciência da Computação na UFSCar 💜 
 <br>
 <div> 
   <a href="https://beacons.ai/giovannaPavani">
