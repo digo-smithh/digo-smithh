@@ -1,9 +1,11 @@
 # Olá, sou o Rodrigo 👋 
 #### Sou técnico em informática pelo COTUCA e estudante de Ciência da Computação na UFSCar 💜 
 #
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digo-smithh&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digo-smithh&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div> 
+  <a href="https://beacons.ai/giovannaPavani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=digo-smithh&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digo-smithh&layout=compact&theme=onedark"/>  
+</div>
 
 ### Minhas experiências:
 #
@@ -18,3 +20,5 @@
 ### Você pode me encontrar em:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-smith-b02378165/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smithrodrigues08@gmail.com)
+
+
